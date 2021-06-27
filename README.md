@@ -37,4 +37,4 @@ This new deeplearning.ai TensorFlow Specialization teaches you how to use Tensor
       using real-world data!
        
 ## License
-Licensed under the [MIT License](https://github.com/chandlerbing65nm/Deep-Learning-Coursera/blob/main/LICENSE)
+Licensed under the [MIT License](https://github.com/chandlerbing65nm/Tensorflow-Developer-Coursera/blob/main/LICENSE)
